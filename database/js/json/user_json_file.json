@@ -1,0 +1,122 @@
+[
+    {
+        "u_id": "2",
+        "unique_id": "1357678",
+        "Name": "ahmerAdmin",
+        "email": "ahmer@gmail.com",
+        "password": "123",
+        "image": "16760963701675421206admin.jpg",
+        "status": "signal_cellular_4_bar",
+        "role_id": "1",
+        "address": "karachi",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "3",
+        "unique_id": "1133030496",
+        "Name": "samuel",
+        "email": "samuel@gmail.com",
+        "password": "123",
+        "image": "pic.jpg",
+        "status": "signal_cellular_null",
+        "role_id": "2",
+        "address": "karachi",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "19",
+        "unique_id": "97668943",
+        "Name": "aliysha",
+        "email": "aliysha@hr.com",
+        "password": "123",
+        "image": "1676817017pic-2.png",
+        "status": "signal_cellular_4_bar",
+        "role_id": "2",
+        "address": "karachi",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "36",
+        "unique_id": "1117230790",
+        "Name": "Abdul Rehman",
+        "email": "rehman@gmail.com",
+        "password": "0000",
+        "image": "1676817070pic-3.png",
+        "status": "signal_cellular_null",
+        "role_id": "2",
+        "address": "karachi",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "43",
+        "unique_id": "87139959",
+        "Name": "Muslim ",
+        "email": "Muslim@user.in",
+        "password": "123",
+        "image": "1675247857pic.jpg",
+        "status": "signal_cellular_null",
+        "role_id": "2",
+        "address": "karachi",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "44",
+        "unique_id": "728356719",
+        "Name": "abdul Rehman",
+        "email": "rehman@test.in",
+        "password": "123",
+        "image": "1675248388admin.jpg",
+        "status": "signal_cellular_null",
+        "role_id": "2",
+        "address": "karachi",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "51",
+        "unique_id": "267757519",
+        "Name": "samuel Yaqoob",
+        "email": "samuel855@gmail.com",
+        "password": "123",
+        "image": "1676816858pic-1.png",
+        "status": "signal_cellular_4_bar",
+        "role_id": "1",
+        "address": "karachi",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "52",
+        "unique_id": "1117230790",
+        "Name": "Abdul Rehman",
+        "email": "Abdulrehman@foodCeo.com",
+        "password": "0000",
+        "image": "1675421206admin.jpg",
+        "status": "signal_cellular_null",
+        "role_id": "2",
+        "address": "karachi",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "53",
+        "unique_id": "676373578",
+        "Name": "umer akber",
+        "email": "umerAkber@gmail.com",
+        "password": "123",
+        "image": "16755359111675420102pic.jpg",
+        "status": "signal_cellular_null",
+        "role_id": "2",
+        "address": "karachi",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "54",
+        "unique_id": "1584050050",
+        "Name": "Junaid Rehman",
+        "email": "junaidRehman@worker.in",
+        "password": "123",
+        "image": "1676111192pic-3.png",
+        "status": "signal_cellular_null",
+        "role_id": "2",
+        "address": "karachi",
+        "number": "N\/A"
+    }
+]
